@@ -12,7 +12,7 @@ public class main {
             sum = sum + arr[i];
         }
         System.out.println(sum);
-    }
+    }       
 
 
     public static void main(String[] args) {
@@ -20,3 +20,4 @@ public class main {
     }
 
 }
+
