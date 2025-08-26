@@ -15,7 +15,7 @@ public class QuickSort {
     }
 
     /// Pattern
-    private static void diamond (int n){
+               private static void diamond (int n){
         for (int i = 0;i <= n;i++){
             // space
             for (int j = 1;j <= n-i;j++){
@@ -42,4 +42,5 @@ public class QuickSort {
             System.out.println();
         }
     }
+
 }
