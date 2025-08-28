@@ -1,7 +1,7 @@
 package mathematics;
 
 import java.util.*;
-public class assignmentOperator {
+    public class assignmentOperator {
     public static void main(String[] args) {
 
 
@@ -25,4 +25,5 @@ public class assignmentOperator {
         System.out.println(a);
 
     }
+
 }
