@@ -21,9 +21,10 @@ public class Array_input {
         // Print output
         System.out.println("You entered:");
         for (int i = 0; i < n; i++) {
-            System.out.print(arr[i] + "  "); // prints in one line
+            System.out.print(arr[i] + "  "); 
         }
 
         sc.close();
     }
 }
+
