@@ -37,14 +37,11 @@ public class unique_array {
 
         Scanner sc = new Scanner(System.in);
 
-        // Take array size
         System.out.print("Enter size of array: ");
         int n = sc.nextInt();
 
-        // Create array
         int[] arr = new int[n];
 
-        // Take input
         System.out.println("Enter the array elements:");
         for (int i = 0; i < n; i++) {
             arr[i] = sc.nextInt();
@@ -52,3 +49,4 @@ public class unique_array {
         unique(arr);
     }
 }
+
