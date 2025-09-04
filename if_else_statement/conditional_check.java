@@ -13,7 +13,7 @@ public class conditional_check {
             System.out.println("even and not divisible by 3");
         }else
         {
-            System.out.println("odd or not divisible by 3");
+               System.out.println("odd or not divisible by 3");
         }
     }
 }
