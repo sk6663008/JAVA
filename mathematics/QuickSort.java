@@ -14,7 +14,7 @@ public class QuickSort {
         diamond(n);
     }
 
-    /// Pattern
+    
                private static void diamond (int n){
         for (int i = 0;i <= n;i++){
             // space
@@ -44,3 +44,4 @@ public class QuickSort {
     }
 
 }
+
