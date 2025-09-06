@@ -21,7 +21,7 @@ public class repeating_array {
         System.out.print("Enter size of array: ");
         int n = sc.nextInt();
 
-        // Create array
+    
         int[] arr = new int[n];
 
         // Take input
@@ -32,5 +32,6 @@ public class repeating_array {
         System.out.println("first repeating no : " + repeating(arr));
     }
 }
+
 
 
