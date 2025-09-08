@@ -24,7 +24,7 @@ public class demoarray {
 
         names[0]="shashank";
         names[2]="vikram";
-        names[3]="rahul";
+        names[3]="ram";
 
         System.out.println(ages[0]);
         System.out.println(ages[3]);
