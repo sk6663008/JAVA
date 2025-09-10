@@ -18,7 +18,6 @@ public class Array_input {
             arr[i] = sc.nextInt();
         }
 
-        // Print output
         System.out.println("You entered:");
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i] + "  "); 
@@ -27,4 +26,5 @@ public class Array_input {
         sc.close();
     }
 }
+
 
